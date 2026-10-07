@@ -1,0 +1,6 @@
+fastapi==0.142.2
+uvicorn==0.54.0
+geopandas==1.2.0
+shapely==2.1.2
+pyproj==3.8.0
+python-multipart==0.0.32
